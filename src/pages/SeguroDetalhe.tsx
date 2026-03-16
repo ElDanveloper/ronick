@@ -95,7 +95,7 @@ const SeguroDetalhe = () => {
                 <Link to="/cotacao">Solicitar Cotação</Link>
               </Button>
               <Button asChild size="lg" variant="outline" className="font-semibold px-8">
-                <a href="https://wa.me/5575999990000" target="_blank" rel="noopener noreferrer">Falar no WhatsApp</a>
+                <a href="https://wa.me/5575983151724" target="_blank" rel="noopener noreferrer">Falar no WhatsApp</a>
               </Button>
             </div>
           </div>

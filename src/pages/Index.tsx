@@ -76,8 +76,13 @@ const Index = () => {
               <Button asChild size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground font-semibold px-8 text-base">
                 <Link to="/cotacao">Solicitar Cotação</Link>
               </Button>
-              <Button asChild size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 font-semibold px-8 text-base">
-                <a href="https://wa.me/5575999990000" target="_blank" rel="noopener noreferrer">
+              <Button
+                asChild
+                size="lg"
+                variant="outline"
+                className="border-primary-foreground/30 text-[#1D43D7] hover:text-white hover:bg-primary-foreground/10 font-semibold px-8 text-base"
+              >
+                <a href="https://wa.me/5575983151724" target="_blank" rel="noopener noreferrer">
                   Falar com um Especialista
                 </a>
               </Button>
@@ -255,7 +260,7 @@ const Index = () => {
                 <Link to="/cotacao">Solicitar Cotação</Link>
               </Button>
               <Button asChild size="lg" variant="outline" className="font-semibold px-8 text-base">
-                <a href="https://wa.me/5575999990000" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/5575983151724" target="_blank" rel="noopener noreferrer">
                   Falar no WhatsApp
                 </a>
               </Button>

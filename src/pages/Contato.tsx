@@ -82,7 +82,7 @@ const Contato = () => {
               </div>
 
               <Button asChild size="lg" className="mt-8 font-semibold">
-                <a href="https://wa.me/5575999990000" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/5575983151724" target="_blank" rel="noopener noreferrer">
                   Falar no WhatsApp
                 </a>
               </Button>
