@@ -28,15 +28,6 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Show build output
-        run: |
-          echo "== pwd =="
-          pwd
-          echo "== repo root contents =="
-          ls -la
-          echo "== dist contents =="
-          ls -la dist || true
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
